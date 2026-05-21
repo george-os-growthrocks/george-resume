@@ -288,7 +288,7 @@ const Index = () => {
                     rel="noopener noreferrer"
                     className="hover:text-accent"
                   >
-                    linkedin.com/in/kasiotisa
+                    https://www.linkedin.com/in/georgekas/
                   </a>
                 </ContactRow>
                 <ContactRow icon={<Calendar className="h-3.5 w-3.5" />}>
