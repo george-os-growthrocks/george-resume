@@ -210,7 +210,7 @@ const stack = ["WordPress", "WooCommerce", "Next.js", "HTML / CSS / JS", "PHP", 
 const languages = [
   { name: "Greek", level: "Native", percent: 100 },
   { name: "English", level: "Fluent", percent: 95 },
-  { name: "Spanish", level: "Advanced", percent: 85 },
+  { name: "Spanish", level: "Basic", percent: 40 },
 ];
 
 const certifications = [
