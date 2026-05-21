@@ -23,8 +23,9 @@ const experiences: Experience[] = [
     highlight: "AI-native travel platform built solo, combining full-stack engineering with applied SEO.",
     bullets: [
       "Designed a custom LLM skill & training pipeline orchestrating Claude, Gemini and Perplexity for itinerary generation and content production.",
-      "Launched the Cyclades vertical in December 2025 as a proof market before global expansion.",
+      "Launched the Cyclades vertical in December 2025 as a proof market before global expansion — directly in the Greek island travel vertical.",
       "Recovered from successive Google Core updates and war-driven demand shocks; restored growth instantly using a tested counter-playbook.",
+      "Monitoring LLM and AI-driven search performance (Perplexity, SGE) to adapt content for GEO visibility.",
       "Currently in beta; expanding niche coverage, multilingual content and itinerary generation.",
     ],
     metrics: [
@@ -44,6 +45,8 @@ const experiences: Experience[] = [
       "Mindvalley.com — 3× impressions and 2× clicks across the engagement through a merged technical + content + internal-linking strategy.",
       "Built a repeatable recovery playbook for Core, Spam, Helpful Content and Thin Content updates — a reverse-engineered approach proven across markets.",
       "Own strategy, prioritization and delivery; partner with content and dev teams on a per-client basis.",
+      "Produce competitive analysis reports and actionable Looker Studio dashboards tracking competitor performance, search trends and market opportunities.",
+      "Manage organic partnerships and outreach initiatives to enhance domain authority across key client markets.",
       "Operate the full toolchain: Ahrefs, Screaming Frog, GA4, GSC, SEOTesting.com, plus in-house SEO tooling.",
     ],
     metrics: [
@@ -104,7 +107,7 @@ const experiences: Experience[] = [
     location: "Athens, GR",
     period: "Sep 2015 — May 2022",
     bullets: [
-      "Managed migration of eef.edu.gr from Joomla to custom Umbraco, including schema for events, tickets and movies.",
+      "Managed migration of eef.edu.gr from Joomla to custom Umbraco, including structured data (schema) for events, tickets and movies.",
       "Built an auto meta-description system; trained content writers on SEO writing.",
       "Delivered 10+ WordPress projects and a new WooCommerce eshop integrated with the Eduard ERP.",
       "Ranked 50+ new keywords in 6 months; ran the email marketing program for a year.",
@@ -173,10 +176,13 @@ const experiences: Experience[] = [
 const coreSkills = [
   "Technical SEO",
   "On-Page SEO",
+  "Keyword Research",
   "Content Strategy",
   "Internal Linking",
-  "Site Migrations",
-  "Keyword Research",
+  "Structured Data",
+  "GEO / AI Search",
+  "Competitive Analysis",
+  "Link Building & Outreach",
   "Analytics (GA4/GSC)",
   "CRO",
   "Team Leadership",
@@ -189,6 +195,8 @@ const tools = [
   "Semrush",
   "GA4",
   "GSC",
+  "Looker Studio",
+  "Google Sheets",
   "SEOTesting.com",
   "Perplexity",
   "Claude Code",
@@ -201,7 +209,7 @@ const stack = ["WordPress", "WooCommerce", "Next.js", "HTML / CSS / JS", "PHP", 
 
 const languages = [
   { name: "Greek", level: "Native", percent: 100 },
-  { name: "English", level: "Advanced", percent: 90 },
+  { name: "English", level: "Fluent", percent: 95 },
   { name: "Spanish", level: "Advanced", percent: 85 },
 ];
 
@@ -376,8 +384,10 @@ const Index = () => {
             {/* Profile blurb */}
             <p className="mt-5 text-[13px] leading-relaxed text-muted-foreground max-w-2xl">
               Organic Growth Strategist with 8+ years scaling SEO for enterprise and SMB across
-              Greece, Cyprus, Spain and global markets. I combine technical SEO, content systems
-              and full-stack engineering — built 150+ sites end-to-end. Currently Head of Growth at{" "}
+              Greece, Cyprus, Spain and global markets. I combine technical SEO, content systems,
+              GEO/AI-search optimisation and full-stack engineering — built 150+ sites end-to-end.
+              Deep experience in multi-market and multilingual SEO across travel, e-commerce and publishing.
+              Currently Head of Growth at{" "}
               <a
                 href="https://growthrocks.com"
                 target="_blank"
