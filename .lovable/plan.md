@@ -25,7 +25,7 @@ Move away from hospitality gold/cream toward a confident growth/analytics palett
 - **Core skills (chips):** Technical SEO, On-Page SEO, Content Strategy, Internal Linking, Site Migrations, Keyword Research, Analytics (GA4/GSC), CRO, Team Leadership, Full-Stack Dev.
 - **Tools:** Ahrefs, Screaming Frog, Perplexity, Claude Code, Gemini, SEOTesting.com, Custom in-house SEO tools, Semrush, GA4, GSC, Figma.
 - **Stack:** WordPress, WooCommerce, Next.js, HTML/CSS/JS, PHP, MySQL, Umbraco.
-- **Languages:** Greek (Native 100), English (Advanced 90), Spanish (Advanced 85).
+- **Languages:** Greek (Native 100), English (Advanced 90), Spanish (Basic 50).
 - **Certifications:** SEO Fundamentals — Semrush (2021), Google SEO Fundamentals — UC Davis (2021), Google Ads (2018), Cisco Networking (2016).
 
 ## 4. Profile blurb (top of main)
