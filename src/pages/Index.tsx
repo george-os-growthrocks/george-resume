@@ -89,7 +89,7 @@ const experiences: Experience[] = [
     role: "WordPress Developer / Senior SEO Specialist",
     company: "Villarreal CF — Envidea",
     location: "Vila-real / Almassora, ES",
-    period: "Feb 2019 — Feb 2023",
+    period: "Aug 2022 — Apr 2023",
     bullets: [
       "Co-led the Joomla → WordPress migration of villarrealcf.es with a backend developer.",
       "Integrated external API calls for standings, fixtures and player information.",
@@ -102,7 +102,7 @@ const experiences: Experience[] = [
     role: "Project Manager / WP Developer / SEO Specialist",
     company: "Eugenides Foundation — Planetarium of Greece",
     location: "Athens, GR",
-    period: "Sep 2020 — Sep 2022",
+    period: "Sep 2015 — May 2022",
     bullets: [
       "Managed migration of eef.edu.gr from Joomla to custom Umbraco, including schema for events, tickets and movies.",
       "Built an auto meta-description system; trained content writers on SEO writing.",
